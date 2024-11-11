@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">MenuTypesActivity</string>
+    <string name="mostrar_el_popup_menu">Mostrar el Popup Menu</string>
+    <string name="mostrar_el_context_menu">Mostrar el Context Menu</string>
+    <string name="editar">Editar</string>
+    <string name="eliminar">Eliminar</string>
+    <string name="herramientas">Herramientas</string>
+    <string name="acerca">Acerca</string>
+    <string name="enviar">Enviar</string>
+    <string name="agregar_a_favoritos">Agregar a favoritos</string>
+    <string name="postre">Postre</string>
+    <string name="bebida">Bebida</string>
+    <string name="editar_item">Editar Item</string>
+    <string name="eliminar_item">Eliminar Item</string>
+    <string name="agregar_al_cart">Agregar al Cart</string>
+    <string name="ver_detalles">Ver Detalles</string>
+    <string name="tipos_de_menu_app">Tipos de Menu App</string>
+    <string name="mas_opciones">mas opciones</string>
+    <string name="subitem1">subitem1</string>
+    <string name="subitem2">subitem2</string>
+    <string name="configuraci_n">Configuración</string>
+    <string name="acerca_de">Acerca de</string>
+    <string name="compartir">Compartir</string>
+    <string name="guardar">Guardar</string>
+    <string name="menu_popup">menupopup</string>
+</resources>
